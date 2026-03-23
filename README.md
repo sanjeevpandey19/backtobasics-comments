@@ -1,2 +1,2 @@
 # backtobasics-comments
-Discussions only for Back to Basics blog
+Public discussions for backtobasics.blog website”
